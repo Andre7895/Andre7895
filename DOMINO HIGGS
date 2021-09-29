@@ -8,3 +8,14 @@
 Andre7895/Andre7895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pkg install git
+$ pip2 install requests
+$ pkg install bs2
+$ pip2 install bs4
+$ git clone http//github.com/andre7895/domino
+$ ls
+$ cd domino
+$ ls
+$ python2 domino.py
